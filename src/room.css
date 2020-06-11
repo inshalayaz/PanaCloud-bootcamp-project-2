@@ -1,0 +1,11 @@
+.room{
+    height: 100em;
+}
+.light{
+    background: white;
+    color: black;
+}
+.dark{
+    background: black;
+    color: white;
+}
